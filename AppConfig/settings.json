@@ -1,0 +1,8 @@
+{
+"app-settings": {
+    "app-ver": "myversion",
+    "db-host": "my-hostname-url",
+    "db-user": "my-db-username",
+    "db-pass": "my-db-pass"
+}
+}
